@@ -33,14 +33,14 @@ Parameters:
   GitHubToken:
     Type: String
     NoEcho: true
-    Description: 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
+    Description:
     MinLength: 3
     MaxLength: 100
     ConstraintDescription: You must enter a GitHub personal access token
 
   GitHubUser:
     Type: String
-    Default: SudKul
+    Default: Comendeiro
     Description: Comendeiro
     MinLength: 3
     MaxLength: 100
